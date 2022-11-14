@@ -9,9 +9,9 @@ deque<int> q;
 
 int main() {
     int n, k;
-    cin >> n >> k;
+    scanf("%d%d", &n, &k);
     
-    for (int i = 0; i < n; i++) cin >> a[i];
+    for (int i = 0; i < n; i++) scanf("%d", &a[i]);
     
     // 计算最小值
     for (int i = 0; i < n; i++) {
@@ -28,7 +28,7 @@ int main() {
             cout << a[q.front()] << " ";
         }
     }
-    cout << endl;
+    printf("\n");
     
     q.clear();
     
@@ -47,7 +47,7 @@ int main() {
             cout << a[q.front()] << " ";
         }
     }
-    cout << endl;
+    printf("\n");
     
     return 0;
 }
