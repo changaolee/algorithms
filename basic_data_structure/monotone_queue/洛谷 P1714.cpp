@@ -31,7 +31,7 @@ int main() {
         q.push_back(i);
         ans = max(ans, sum[i] - sum[q.front()]);
     }
-    cout << ans << endl;
+    printf("%d\n", ans);
     
     return 0;
 }
