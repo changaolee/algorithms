@@ -25,10 +25,10 @@ for (int i = 0; i < n; i++) {
 
 | 类型 | 代码 | 链接 |
 | --- | --- | --- |
-| 单调队列简单题 | [洛谷 P1886](./洛谷%20P1886.cpp) | [查看原题](https://www.luogu.com.cn/problem/P1886) |
-| 单调队列简单题 | [洛谷 P1440](./洛谷%20P1440.cpp) | [查看原题](https://www.luogu.com.cn/problem/P1440) |
-| 单调队列简单题 | [洛谷 P2032](./洛谷%20P2032.cpp) | [查看原题](https://www.luogu.com.cn/problem/P2032) |
-| 单调队列简单题 | 洛谷 P1714 | [查看原题](https://www.luogu.com.cn/problem/P1714) |
+| 滑动窗口最值 | [洛谷 P1886](./洛谷%20P1886.cpp) | [查看原题](https://www.luogu.com.cn/problem/P1886) |
+| 滑动窗口最值 | [洛谷 P1440](./洛谷%20P1440.cpp) | [查看原题](https://www.luogu.com.cn/problem/P1440) |
+| 滑动窗口最值 | [洛谷 P2032](./洛谷%20P2032.cpp) | [查看原题](https://www.luogu.com.cn/problem/P2032) |
+| 带长度限制的最大子数组和 | 洛谷 P1714 | [查看原题](https://www.luogu.com.cn/problem/P1714) |
 | 单调队列简单题 | 洛谷 P2629 | [查看原题](https://www.luogu.com.cn/problem/P2629) |
 | 单调队列简单题 | 洛谷 P2422 | [查看原题](https://www.luogu.com.cn/problem/P2422) |
 | 单调队列简单题 | 洛谷 P1540 | [查看原题](https://www.luogu.com.cn/problem/P1540) |
