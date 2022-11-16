@@ -1,6 +1,4 @@
-#include <iostream>
-#include <deque>
-#include <climits>
+#include <bits/stdc++.h>
 
 using namespace std;
 
