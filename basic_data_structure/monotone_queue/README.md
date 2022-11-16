@@ -30,6 +30,6 @@ for (int i = 0; i < n; i++) {
 | 滑动窗口最值 | [洛谷 P2032](./洛谷%20P2032.cpp) | [查看原题](https://www.luogu.com.cn/problem/P2032) |
 | 带长度限制的最大子数组和 | [洛谷 P1714](./洛谷%20P1714.cpp) | [查看原题](https://www.luogu.com.cn/problem/P1714) |
 | 带长度限制的最大子数组和 | [洛谷 P2629](./洛谷%20P2629.cpp) | [查看原题](https://www.luogu.com.cn/problem/P2629) |
-| 单调队列优化 DP | 洛谷 P1725 | [查看原题](https://www.luogu.com.cn/problem/P1725) |
+| 单调队列优化 DP | [洛谷 P1725](./洛谷%20P1725.cpp) | [查看原题](https://www.luogu.com.cn/problem/P1725) |
 | 单调队列优化 DP | [洛谷 P3957](./洛谷%20P3957.cpp) | [查看原题](https://www.luogu.com.cn/problem/P3957) |
 | 二维队列 | 洛谷 P2776 | [查看原题](https://www.luogu.com.cn/problem/P2776) |
