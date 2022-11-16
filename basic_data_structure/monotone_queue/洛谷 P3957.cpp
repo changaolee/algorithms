@@ -37,14 +37,17 @@ bool check(int g)
     f[0] = 0;
     int l = max(d - g, 1), r = d + g;
     for (int i = 1; i <= n; i++) {
+        while (!q.empty() && pos[i] - pos[q.front()] > r) {
+            q.pop_front();
+        }
         while (pos[i] - pos[cur] >= l) {
             while (!q.empty() && f[q.back()] < f[cur]) {
                 q.pop_back();
             }
-            q.push_back(cur++);
-        }
-        while (!q.empty() && pos[i] - pos[q.front()] > r) {
-            q.pop_front();
+            if (pos[i] - pos[cur] <= r) {
+                q.push_back(cur);
+            }
+            cur++;
         }
         if (!q.empty()) {
             f[i] = f[q.front()] + score[i];
