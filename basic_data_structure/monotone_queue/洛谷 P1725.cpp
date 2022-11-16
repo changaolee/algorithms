@@ -28,7 +28,6 @@ deque<int> q;
 int solve()
 {
     int ans = INT_MIN;
-    int cur = 0;
     q.clear();
     f = vector<int>(N, -1e9);
     f[0] = 0;
