@@ -20,5 +20,6 @@ for (int i = 0; i < n; i++) {
 
 | 类型 | 代码 | 链接 |
 | --- | --- | --- |
-| 右侧最近大于当前值的元素 | [洛谷 P2947](./洛谷%20P2947.cpp) | [查看原题](https://www.luogu.com.cn/problem/P2947) |
-| 右侧最近大于当前值的元素 | [洛谷 P5788](./洛谷%20P5788.cpp) | [查看原题](https://www.luogu.com.cn/problem/P5788) |
+| 单侧最近大/小于当前值的元素 | [洛谷 P2947](./洛谷%20P2947.cpp) | [查看原题](https://www.luogu.com.cn/problem/P2947) |
+| 单侧最近大/小于当前值的元素 | [洛谷 P5788](./洛谷%20P5788.cpp) | [查看原题](https://www.luogu.com.cn/problem/P5788) |
+| 双侧最近大/小于当前值的元素 | [洛谷 P1901](./洛谷%20P1991.cpp) | [查看原题](https://www.luogu.com.cn/problem/P1901) |
