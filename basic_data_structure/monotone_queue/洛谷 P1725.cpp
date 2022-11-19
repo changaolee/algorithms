@@ -27,8 +27,8 @@ deque<int> q;
 // 单调队列优化后的 DP：O(n)
 int solve()
 {
-    int ans = INT_MIN;
     q.clear();
+    int ans = INT_MIN;
     f = vector<int>(N, -1e9);
     f[0] = 0;
     for (int i = l; i <= n + r - 1; i++) {
