@@ -3,7 +3,7 @@
 using namespace std;
 
 const int N = 500010;
-int x, sum[N];
+int sum[N];
 
 deque<int> q;
 
@@ -12,8 +12,8 @@ int main() {
     scanf("%d%d", &n, &m);
     
     for (int i = 1; i <= n; i++) {
-        scanf("%d", &x);
-        sum[i] = sum[i - 1] + x;
+        scanf("%d", &sum[i]);
+        sum[i] += sum[i - 1];
     }
     
     q.push_back(0);
