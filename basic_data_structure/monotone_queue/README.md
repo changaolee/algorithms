@@ -1,6 +1,6 @@
 ## 单调队列
 
-> [【算法精讲系列】基础数据结构：单调队列 | 滑动窗口最值问题](https://www.bilibili.com/video/BV1UG4y1t7cQ/)
+> [【算法精讲系列】基础数据结构：单调队列](https://www.bilibili.com/video/BV1UG4y1t7cQ/)
 
 ### 算法模板
 

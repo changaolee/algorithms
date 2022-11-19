@@ -23,8 +23,8 @@ int main() {
             q.pop_back();
         }
         q.push_back(i);
-        if (!q.empty()) printf("%d\n", a[q.front()]);
-        else printf("0\n");
+        
+        printf("%d\n", a[q.front()]);
     }
     
     return 0;
