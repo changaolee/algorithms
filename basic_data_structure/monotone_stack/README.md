@@ -22,4 +22,4 @@ for (int i = 0; i < n; i++) {
 | --- | --- | --- |
 | 单侧最近大（小）于当前值的元素 | [洛谷 P2947](./洛谷%20P2947.cpp) | [查看原题](https://www.luogu.com.cn/problem/P2947) |
 | 单侧最近大（小）于当前值的元素 | [洛谷 P5788](./洛谷%20P5788.cpp) | [查看原题](https://www.luogu.com.cn/problem/P5788) |
-| 双侧最近大（小）于当前值的元素 | [洛谷 P1901](./洛谷%20P1991.cpp) | [查看原题](https://www.luogu.com.cn/problem/P1901) |
+| 双侧最近大（小）于当前值的元素 | [洛谷 P1901](./洛谷%20P1901.cpp) | [查看原题](https://www.luogu.com.cn/problem/P1901) |
