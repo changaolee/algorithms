@@ -32,3 +32,4 @@ for (int i = 0; i < n; i++) {
 | 带长度限制的最大子数组和 | [洛谷 P2629](./洛谷%20P2629.cpp) | [查看原题](https://www.luogu.com.cn/problem/P2629) |
 | 单调队列优化 DP | [洛谷 P1725](./洛谷%20P1725.cpp) | [查看原题](https://www.luogu.com.cn/problem/P1725) |
 | 单调队列优化 DP | [洛谷 P3957](./洛谷%20P3957.cpp) | [查看原题](https://www.luogu.com.cn/problem/P3957) |
+| 单调队列优化 DP | [力扣 1425](./力扣%201425.cpp) | [查看原题](https://leetcode.cn/problems/constrained-subsequence-sum/) |
