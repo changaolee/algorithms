@@ -1,5 +1,7 @@
 ## 二分法
 
+> [【算法精讲系列】基础算法：二分法](https://www.bilibili.com/video/BV11A411R7BK/)
+
 ### 算法模板
 
 ```cpp
